@@ -10,6 +10,8 @@
 ## Sub Technologies
 - Material-UI  
 - Bootstrap
+- D3.js
+- GSAP
 
 
 ## Section 1 - Overview
