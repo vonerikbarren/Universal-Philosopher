@@ -10,3 +10,6 @@
 
 
 ## Section 3 - Directions 
+
+
+## Section 4 - Notes & Highlights 
