@@ -1,6 +1,15 @@
 # Universal-Philosopher
 
-## Technologies
+
+## Main Technologies
+- MongoDB
+- Express
+- React
+- Node
+
+## Sub Technologies
+- Material-UI  
+- Bootstrap
 
 
 ## Section 1 - Overview
