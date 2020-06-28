@@ -25,6 +25,11 @@
 
 
 ## Section 4 - Notes & Highlights 
+[ ] Get rid of boilerplate code 
+[ ] Install all necessary modules 
+[ ] Set up React Router 
+[ ] Build Mockup on iPad 
+[ ] Create Asset List 
 
 
 ## Section 5 - Summary 
