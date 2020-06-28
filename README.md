@@ -15,6 +15,7 @@
 
 
 ## Section 1 - Overview
+- The purpose of this REPO is a personal blog / vlog that has all of interests. There will also be articles on my growth to also keep me accountable as my knowledge progresses. 
 
 
 ## Section 2 - Purpose
