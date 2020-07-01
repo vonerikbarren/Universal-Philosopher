@@ -19,6 +19,7 @@
 
 
 ## Section 2 - Purpose
+- The Purpose of this REPO is to have a location to have my growth not only recorded but also to have it public so that I can see how far I have come as well as anyone who chooses to see it. 
 
 
 ## Section 3 - Directions 
