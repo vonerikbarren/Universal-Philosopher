@@ -15,8 +15,7 @@
 
 
 ## Section 1 - Overview
-- The purpose of this REPO is a personal blog / vlog that has all of interests. There will also be articles on my growth to also keep me accountable as my knowledge progresses. 
-
+- A website the demonstrates high level of knowledge, skill, and resources, in all areas of philosophical development. 
 
 ## Section 2 - Purpose
 - The Purpose of this REPO is to have a location to have my growth not only recorded but also to have it public so that I can see how far I have come as well as anyone who chooses to see it. 
