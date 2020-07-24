@@ -1,5 +1,6 @@
 import React from 'react';
 
+
 import './App.css';
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
       <br />
 
       <h3>Created by Von'Erik </h3>
+      <h3>This is a website NOT Application</h3>
     </div>
   );
 }
